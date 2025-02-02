@@ -15,10 +15,15 @@ Expected Outcome:
  #Provides visual insights into customer behavior using clustering techniques.
 
 Libraries Used:
+ 
  #Pandas – Data manipulation and cleaning
+ 
  #NumPy – Numerical computations
+ 
  #Matplotlib & Seaborn – Data visualization
+ 
  #Scikit-learn – Machine learning models (K-Means, StandardScaler)
+ 
  #Yellowbrick – Cluster evaluation (Elbow method, Silhouette analysis)
 
 Features of the System:
